@@ -1,6 +1,6 @@
 # Android Studio安装成功结果
 
-!(https://raw.githubusercontent.com/YanshenCunYun/Android-Test1/main/image-20230412111655388.png)
+![image-20230412111655388](https://raw.githubusercontent.com/YanshenCunYun/Android-Test1/main/image-20230412111655388.png)
 
 
 
